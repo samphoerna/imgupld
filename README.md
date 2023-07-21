@@ -1,6 +1,10 @@
 # imgupld
 File image to exploit Unrestricted File Upload or File Upload Attack vulnerability
 
+<img width="200" height="150 alt="ponep" src="https://github.com/samphoerna/imgupld/assets/139729508/7866dcaa-fa51-4aef-ae32-6a51d354d329">
+
+---
+
 **Exploit:**
 
 The exploit involves bypassing any client-side or server-side file type checks to upload malicious files. Attackers can change the file extension, forge the MIME type, or use encoding techniques to disguise the malicious content as legitimate files. Once the malicious file is uploaded, attackers can then execute code remotely, escalate privileges, deface the website, or compromise user data.
